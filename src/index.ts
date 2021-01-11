@@ -14,4 +14,4 @@ app.use(express.json())
 //routes
 app.use(userRoutes)
 app.listen(3000)
-console.log('serverPort', 3000)
+console.log('server Port definido', 3000)
